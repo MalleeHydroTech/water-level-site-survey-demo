@@ -1,7 +1,7 @@
 {
-  "name": "Water Level Site Survey",
-  "short_name": "Site Survey",
-  "description": "Offline water-level site survey and two-peg test record.",
+  "name": "Hydrometric Survey Workbook",
+  "short_name": "Survey Workbook",
+  "description": "Offline hydrometric survey and two-peg test workbook.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
